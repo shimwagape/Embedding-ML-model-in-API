@@ -1,5 +1,0 @@
-pytest
-scikit-learn
-fastapi[all]
-pydantic
-uvicorn
